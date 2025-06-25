@@ -134,6 +134,7 @@ const handleImageChange = (e) => {
         </div>
 
         <div className="space-y-1">
+           <p className="text-sm font-medium text-gray-300">Add your profile pic</p>
           <Input
             name="profilepic"
             type="file"
