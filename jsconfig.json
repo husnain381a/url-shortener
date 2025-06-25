@@ -1,0 +1,12 @@
+{
+  // "files": [], // Removed or comment out the empty files array
+  "references": [
+   
+  ],
+  "compilerOptions": {
+    "baseUrl": ".",
+    "paths": {
+      "@/*": ["./src/*"]
+    }
+  }
+}
