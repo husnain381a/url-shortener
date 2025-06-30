@@ -1,12 +1,23 @@
-# React + Vite
+# Trimrr – A URL Shortener Platform
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**Trimrr** is a fast, completely **free**, and minimalistic URL shortener that helps you turn long, cluttered URLs into short, shareable links with ease. Designed with simplicity and usability in mind, Trimrr provides a clean interface for creating, managing, and sharing short links—at no cost.
 
-Currently, two official plugins are available:
+Whether you're sharing links across social media, messaging platforms, or professional documents, Trimrr ensures your links look tidy and professional, with no fees or subscriptions involved.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🌐 Live Demo
+Try it now (100% free): [https://trimrr.link](https://trimrr.link)
 
-## Expanding the ESLint configuration
+## 📌 Features
+- Instantly shorten long URLs for free
+- Clean and user-friendly interface
+- Mobile responsive design
+- Fast and reliable performance
+- Totally free for everyone, no sign-up or payment required
+- Makes links cleaner and easier to share
+- Enhances user experience on websites and social media
+- Allows users to monitor click performance, devices, and locations
+- Enables branding through custom short links and QR codes
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 👤 Author
+**Husnain Mazhar**  
+[Portfolio](https://www.husnainmazhar.pro) · [LinkedIn](https://www.linkedin.com/in/husnain-mazhar/)
