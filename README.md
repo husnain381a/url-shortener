@@ -12,7 +12,7 @@ Try it now (100% free): [https://trimrr.link](https://trimrr.link)
 - Clean and user-friendly interface
 - Mobile responsive design
 - Fast and reliable performance
-- Totally free for everyone, no sign-up or payment required
+- Totally free for everyone, no payment required
 - Makes links cleaner and easier to share
 - Enhances user experience on websites and social media
 - Allows users to monitor click performance, devices, and locations
